@@ -150,9 +150,10 @@ Protótipo navegável hospedado no Figma com fluxo entre todas as telas citadas 
 
 ### 13. Registro de Testes
 
-* Screenshots dos testes funcionais
-* Relatório com resultado de cada caso
-* Problemas encontrados e respectivas soluções
+![image](https://github.com/user-attachments/assets/fa2ac531-c3b9-41f2-9bf7-4e45dfc78418)
+![image](https://github.com/user-attachments/assets/98368aaa-925b-496a-b18d-47ad104529c8)
+![image](https://github.com/user-attachments/assets/785ea884-8dc4-44b3-b1b0-744af175db11)
+
 
 ---
 
